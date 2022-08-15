@@ -592,10 +592,10 @@ main .recent-orders table {
   width: 83vw;
 }
 
-main table tbody tr td:last-child,
+/* main table tbody tr td:last-child,
 main table tbody tr td:first-child {
   display: none;
-}
+} */
 
 }
 
