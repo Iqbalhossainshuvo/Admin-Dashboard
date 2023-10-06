@@ -1,4 +1,4 @@
 # Admin-Dashboard
 
 LIVE LINK
-https://iqbalhossainshuvo.github.io/Admin-Dashboard/
+https://admin-dashboard-coral-one.vercel.app/
